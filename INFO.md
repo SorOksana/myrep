@@ -1,2 +1,1 @@
-I love hexlet!
-Something important
+git is awesome!

@@ -1,2 +1,1 @@
-new new text
-experiment with amend
+Hexlet is awesome too!
